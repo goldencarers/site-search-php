@@ -1,5 +1,5 @@
 {
-  "name" : "elastic/site-search",
+  "name" : "goldencares/site-search",
   "description" : "Elastic Site Search Official PHP Client",
   "homepage": "https://github.com/elastic/site-search-php",
   "keywords" : [
